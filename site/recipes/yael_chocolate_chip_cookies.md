@@ -1,1 +1,0 @@
-# Yael's Famous Chocolate Chip Cookies!
