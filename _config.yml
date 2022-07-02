@@ -21,7 +21,7 @@ sidebar:
   - name: Family Recipes
     icon: <i class="fa-solid fa-code"></i>
     link: https://kod5kod.github.io/yamyam/pages/family.html
-  - name: Drinks and Cocktails Recipes
+  - name: Drinks and Cocktails
     icon: <i class="fa-brands fa-github"></i>
     link: https://kod5kod.github.io/yamyam/pages/drinks.html
   - name: Grandma’s Recipes
